@@ -1,20 +1,20 @@
-# Maze NEA 🧩
+# Maze NEA
 Visualized maze generator and solver
 
 ![Maze solving demo](docs/demo.gif)
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧱 Procedural maze generation using depth-first search (recursive backtracking)
-- 🔍 Real-time maze solver visualizer
-- 🎨 Responsive design that adjusts to window size
-- ✅ Cross-platform
+- Procedural maze generation using depth-first search (recursive backtracking)
+- Real-time maze solver visualizer
+- Responsive design that adjusts to window size
+- Cross-platform
 
 ---
 
-## 📸 Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Action         | Keybind     |
 |----------------|-------------|
@@ -26,7 +26,7 @@ Visualized maze generator and solver
 | Resize Height  | ↑ / ↓       |
 
 ---
-## 📁 Project Structure
+## Project Structure
 ```bash
 src
 ├── Assets
@@ -45,14 +45,14 @@ src
 ```
 ---
 
-## 🛠 Installation
+## Installation
 
-### 🔧 Requirements
+### Requirements
 
 - Python 3.10+
 - `tkinter` (library usually pre-installed with Python)
 
-### 📦 Run the app
+### Run the app
 
 ```bash
 git clone https://github.com/Daniel-Cocos/maze-nea.git
